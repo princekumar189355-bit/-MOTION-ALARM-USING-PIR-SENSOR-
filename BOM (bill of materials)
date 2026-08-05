@@ -1,0 +1,22 @@
+# 📋 Bill of Materials (BOM)
+
+| S.No. | Component | Quantity | Approx. Cost (INR) |
+|------:|-----------|:--------:|-------------------:|
+| 1 | PIR Motion Sensor (HC-SR501) | 1 | ₹120 |
+| 2 | 5mm LED | 1 | ₹5 |
+| 3 | 220Ω Resistor | 1 | ₹2 |
+| 4 | Breadboard | 1 | ₹100 |
+| 5 | Jumper Wires | 5–6 | ₹40 |
+| 6 | 9V Battery | 1 | ₹40 |
+| 7 | 9V Battery Clip | 1 | ₹20 |
+
+---
+
+## 💰 Total Estimated Cost
+
+| Item | Value |
+|------|------:|
+| **Total Components** | **7** |
+| **Estimated Total Cost** | **₹327** |
+
+> **Note:** The prices are approximate and may vary depending on the local electronics shop or online seller.
