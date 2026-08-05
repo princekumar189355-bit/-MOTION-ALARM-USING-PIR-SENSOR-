@@ -1,0 +1,18 @@
+                Motion Alarm Using PIR Sensor
+                    Circuit Diagram
+
+          +9V Battery
+         + -----------+
+                      |
+                      |
+                 +----+----+
+                 | PIR      |
+                 | Sensor   |
+                 |          |
+                 | VCC      |
+                 | GND      |
+                 | OUT------->----[220Ω]----->| LED
+                 +----+----+                  |
+                      |                       |
+                      +-----------------------+
+                              GND
